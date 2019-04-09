@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(236,236,236)
+}
+.imgr{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.imgrow{
+  border-radius: 50% 70%;
+}
+.name{
+  background-color: rgba(250, 235, 215, 0.7);
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  align-items: left;
+  border-top-left-radius: 50%;
+}
+.personnal{
+  background-color: rgba(250, 235, 215, 0.7);
+  padding: 30px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  width: 50%;
+  border-bottom-right-radius: 50%;
+}
+.skills{
+  justify-content: left;
+  text-align: left;
+  align-items: flex-start
+}
